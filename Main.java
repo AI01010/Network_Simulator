@@ -1,7 +1,5 @@
 /******************************************************************************
-Ashraful Islam axi220026
-Project 2 - Network Host-Pinging Simulation
-CS 2336.003
+Network Host-Pinging Simulation
 *******************************************************************************/
 import java.io.File;
 import java.io.FileNotFoundException;
